@@ -1,0 +1,7 @@
+D:\Assignments\TryParseAssignment\bin\Debug\TryParseAssignment.exe.config
+D:\Assignments\TryParseAssignment\bin\Debug\TryParseAssignment.exe
+D:\Assignments\TryParseAssignment\bin\Debug\TryParseAssignment.pdb
+D:\Assignments\TryParseAssignment\obj\Debug\TryParseAssignment.csproj.AssemblyReference.cache
+D:\Assignments\TryParseAssignment\obj\Debug\TryParseAssignment.csproj.CoreCompileInputs.cache
+D:\Assignments\TryParseAssignment\obj\Debug\TryParseAssignment.exe
+D:\Assignments\TryParseAssignment\obj\Debug\TryParseAssignment.pdb
